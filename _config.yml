@@ -1,8 +1,8 @@
 #Site
-title: 水榭清松-Song Kong
-description: This is Song' home.
+title: little coder
+description: This is lujinsheng home.
 logo: favicon.png
-url: kongsong.me
+url: lujinsheng.github.io
 rss_url: /feed.xml
 
 # Jekyll
@@ -20,13 +20,13 @@ sass:
   style:            compressed
 
 # Social Links
-email:               hi@kongsong.me
+email:               1262795730@qq.com
 #google.plus:        username
 #twitter:            username
-facebook:            kongsong
-github:              songkong
-stackoverflow:      6438519/song-kong   #from a "http://stackoverflow.com/users/123456/username" link
-linkedin:           kongsong
+#facebook:            kongsong
+github:              lujinsheng
+#stackoverflow:      6438519/song-kong   #from a "http://stackoverflow.com/users/123456/username" link
+#linkedin:           kongsong
 #xing:              username
 #instagram:          username
 #lastfm:            username
