@@ -1,4 +1,4 @@
-# Egret之list自定义item
+# Egret之list自定义item  
 #### Egret 中提供list的控件，但是原生的list只支持label，很多时候我们都需要图标加不同位置的label。要想实现item的不同样式，只能自己定义item,对list的itemRendererSkinName 进行重新赋值。
 ## 示例代码如下：
 自定义skin
