@@ -16,7 +16,7 @@
 
 ```
 ## 效果如下：
-![image](https://github.com/lujinsheng/lujinsheng.github.io/tree/master/assets/images/avatar.jpg)
+![image](assets/images/avatar.jpg)
 ### 赋值代码
 对原生的list控件的itemRendererSkinName 进行重新赋值就可以实现了。
 var list = new eui.List();
