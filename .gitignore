@@ -1,4 +1,7 @@
-archive
+_site
 node_modules
-.idea
-.sass-cache
+npm-debug.log
+.DS_Store
+*/.DS_Store
+*/*/.DS_Store
+*.sh
