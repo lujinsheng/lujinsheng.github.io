@@ -1,7 +1,7 @@
 source "https://rubygems.org"
 gem 'github-pages'
 
-gem "jekyll", ">= 4.0.0", "< 5.0"
+#gem "jekyll", ">= 4.0.0", "< 5.0"
 
 # plugins
 group :jekyll_plugins do
