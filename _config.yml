@@ -19,7 +19,7 @@ description: >-                        # used by seo meta and the atom feed
 # fill in the base hostname & protocol for your site, e.g., 'https://username.github.io'
 url: 'https://lujinsheng.github.io'
 
-author: 龙鱼                  # change to your full name
+author: fish                  # change to your full name
 
 avatar: /assets/img/sample/avatar.jpg   # support internet resources
 
